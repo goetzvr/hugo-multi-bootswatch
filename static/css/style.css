@@ -1,0 +1,15 @@
+.img-circular {
+    width: 60px;
+    height: 60px;
+    background-image: url('/gvr.png');
+    background-size: cover;
+    display: left;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+}
+
+.impressum {
+    font-family: Hack, 'Courier New', Courier, monospace; 
+    margin-left: 20pt;
+}
